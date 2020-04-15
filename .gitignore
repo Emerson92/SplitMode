@@ -39,7 +39,7 @@ obj/
 Assets/ThirdParty/
 Assets/ThirdParty.meta
 
-*.js linguist-language=c#
-*.css linguist-language=c#
-*.html linguist-language=c#
-*.shader linguist-language=c#
+*.js linguist-language=C#
+*.css linguist-language=C#
+*.html linguist-language=C#
+*.shader linguist-language=C#
